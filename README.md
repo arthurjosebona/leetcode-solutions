@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Linked List
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0069-sqrtx) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Recursion
 |  |
 | ------- |
@@ -100,4 +102,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0796-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [2048-next-greater-numerically-balanced-number](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
+## Counting
+|  |
+| ------- |
+| [2048-next-greater-numerically-balanced-number](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
+## Enumeration
+|  |
+| ------- |
+| [2048-next-greater-numerically-balanced-number](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
