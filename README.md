@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0069-sqrtx) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0796-rotate-string) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,4 +116,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-next-greater-numerically-balanced-number](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
+## Simulation
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
