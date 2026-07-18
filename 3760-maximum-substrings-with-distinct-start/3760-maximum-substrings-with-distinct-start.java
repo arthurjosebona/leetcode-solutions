@@ -1,11 +1,10 @@
 class Solution {
+    private final String abc = "abcdefghijklmnopqrstuvwxyz";
     public int maxDistinct(String s) {
-        Set<Character> charSet = new HashSet<>();
-
-        for (char c : s.toCharArray()) {
-            charSet.add(c);
+        int count = 0;
+        for (int i=0; i<26; i++) {
+            if (s.contains(String.valueOf(abc.charAt(i)))) count++;
         }
-
-        return charSet.size();
+        return count;
     }
 }
