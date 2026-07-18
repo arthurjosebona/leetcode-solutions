@@ -1,5 +1,11 @@
 class Solution {
     public int maxDistinct(String s) {
-        return (int) List.of(s.split("")).stream().distinct().count();
+        Set<Character> charSet = new HashSet<>();
+
+        for (char c : s.toCharArray()) {
+            charSet.add(c);
+        }
+
+        return charSet.size();
     }
 }
