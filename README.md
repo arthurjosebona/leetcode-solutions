@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Linked List
 |  |
@@ -67,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0796-rotate-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
