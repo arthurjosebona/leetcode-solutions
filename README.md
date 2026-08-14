@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3516-find-closest-person](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3516-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
