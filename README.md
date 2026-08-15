@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2942-find-words-containing-character](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0048-rotate-image) |
 | [1861-rotating-the-box](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1861-rotating-the-box) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Database
 |  |
 | ------- |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0100-same-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
