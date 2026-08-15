@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2942-find-words-containing-character](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Linked List
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2469-convert-the-temperature](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3516-find-closest-person](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3783-mirror-distance-of-an-integer](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
