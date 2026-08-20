@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2942-find-words-containing-character](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0067-add-binary) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Combinatorics
