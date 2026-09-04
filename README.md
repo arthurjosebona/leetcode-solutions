@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0069-sqrtx) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
