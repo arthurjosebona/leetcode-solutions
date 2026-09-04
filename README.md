@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [1672-richest-customer-wealth](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2942-find-words-containing-character](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0048-rotate-image) |
+| [1672-richest-customer-wealth](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Database
