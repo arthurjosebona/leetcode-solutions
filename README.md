@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arthurjosebona/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0796-rotate-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3110-score-of-a-string) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/arthurjosebona/leetcode-solutions/tree/master/0067-add-binary) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/arthurjosebona/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/arthurjosebona/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
