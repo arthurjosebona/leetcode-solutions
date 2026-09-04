@@ -1,7 +1,7 @@
 class Solution {
     public int firstStableIndex(int[] nums, int k) {
         int ans = -1;
-        
+
         for (int i=0; i<nums.length; i++) {
             int smallest = -1;
             int biggest = -1;
@@ -14,7 +14,6 @@ class Solution {
                 }
             }
             int sub = biggest - smallest;
-            System.out.println("Sub: " + biggest + " - " + smallest + " = " + sub);
             if (sub <= k) {
                 ans = i;
                 break;
